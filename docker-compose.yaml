@@ -1,7 +1,7 @@
 version: "3"
 services:
   neko:
-    image: "pd1416/Virtual-demo:latest"
+    image: "pd1416/vb:latest"
     restart: "unless-stopped"
     shm_size: "2gb"
     ports:
